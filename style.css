@@ -139,6 +139,9 @@ body {
   .form-control {
     border-radius: 0;
   }
+  .float-end{
+    background-color: gray;
+  }
   textarea {
     resize: none;
   }
